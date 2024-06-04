@@ -1,1 +1,8 @@
-# Weather_bot in Telegram bot
+# Телеграм бот, показывающий погоду.
+Введите нужный город, и бот покажет прогноз погоды
+```
+Python 3.10
+Telebot
+```
+Автор
+- [Виталий Черемисов](https://github.com/VitaliiCheremisov)
